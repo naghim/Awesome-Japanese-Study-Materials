@@ -38,6 +38,7 @@ Highly recommended (just pick any):
 
 #### Apps to learn new words
 - **Drops** [[Google Play Store](https://play.google.com/store/apps/details?id=com.languagedrops.drops.international) // [App Store](https://apps.apple.com/us/app/drops-language-learning-games/id939540371)] - good for learning new words, practicing reading and listening. Most content is locked behind paywall. If you want an interactive app to learn vocab, go for it, otherwise you're not missing out on too much.
+- **KaChiKa JA** [[Google Play Store](https://play.google.com/store/apps/details?id=com.hugo.photoja) // [App Store](https://apps.apple.com/app/id6739525442)] - AI photo-to-vocabulary app for Japanese learners. Snap a photo of any object — a 弁当, a 駅 sign, a 自動販売機 — and the app extracts Japanese words with example sentences and pronunciation. Uses FSRS spaced repetition for review scheduling. All images are stored locally on device, no upload. Free with optional subscription.
 
 #### Extensions to learn Japanese words in each new tab
 - [**Tab of Words**](https://github.com/wkei/the-tab-of-words) by WKei. Website: [https://wkei.github.io/the-tab-of-words](https://wkei.github.io/the-tab-of-words)
