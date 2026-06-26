@@ -79,6 +79,7 @@ Writing and usage exercises to reinforce vocabulary, hiragana, katakana and kanj
 ## Listening 🎧
 - [JapanesePod101](https://www.japanesepod101.com/)
 - [NHK Easy News](https://www3.nhk.or.jp/news/easy/) - practice Japanese on real news
+- [Japanese Daily News](https://podcast.jpnotes.dev/) - free daily podcast retelling real news at a slow, learner-friendly pace, with vocab and grammar; also on Apple Podcasts & Spotify
 
 ## Free tests 📖
 #### JLPT N5 
