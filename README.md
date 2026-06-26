@@ -30,6 +30,10 @@ Highly recommended (just pick any):
 - KanjiStudy
 
 ## Materials
+### Grammar 📝
+
+- [Japanese Grammar Notes](https://jpnotes.dev/) - Free bilingual (English/Chinese) grammar notes covering JLPT N5→N2. Each grammar point has meaning, conjugation rules, example sentences with TTS audio and furigana, and comparisons of easily-confused grammar. Downloadable Anki decks included. No signup, no ads.
+
 ### Vocabulary 📚
 
 - [Nihongo Ichiban](https://nihongoichiban.com/):
