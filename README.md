@@ -81,6 +81,7 @@ Writing and usage exercises to reinforce vocabulary, hiragana, katakana and kanj
 ## Listening 🎧
 - [JapanesePod101](https://www.japanesepod101.com/)
 - [NHK Easy News](https://www3.nhk.or.jp/news/easy/) - practice Japanese on real news
+- [After Hours](https://afterhours-e20.pages.dev/) - two Japanese friends in their 20s chat about everyday life in completely unscripted, natural Japanese. Great immersion listening for N3-N1 learners. Available on [Spotify](https://open.spotify.com/show/2bcRVrQ0VejQnYovKxyDLd) and [Apple Podcasts](https://podcasts.apple.com/podcast/id1798145313).
 
 ## Free tests 📖
 #### JLPT N5 
