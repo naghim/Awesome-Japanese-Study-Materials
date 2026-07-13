@@ -30,6 +30,11 @@ Highly recommended (just pick any):
 - KanjiStudy
 
 ## Materials
+
+### Grammar 📝
+
+- [Japanese Grammar Notes](https://jpnotes.dev/) - Free bilingual (English/Chinese) grammar notes covering JLPT N5→N2. Each grammar point has meaning, conjugation rules, example sentences with TTS audio and furigana, and comparisons of easily-confused grammar. Downloadable Anki decks included. No signup, no ads. 
+
 ### Vocabulary 📚
 
 - [Nihongo Ichiban](https://nihongoichiban.com/):
@@ -43,7 +48,7 @@ Highly recommended (just pick any):
 
 #### Extensions to learn Japanese words in each new tab
 - [**Tab of Words**](https://github.com/wkei/the-tab-of-words) by WKei. Website: [https://wkei.github.io/the-tab-of-words](https://wkei.github.io/the-tab-of-words)
-- [**JapaneseTab**](https://github.com/Anupya/JapaneseTab) by Anupya. Chrome Store: https://chrome.google.com/webstore/detail/japanesetab/jndamehabjcbgopalgabjpplldmjnnfn -- the link is currently broken, but you can still install it until it gets fixed. The tutorial can be found here: [https://github.com/Anupya/JapaneseTab/issues/10](https://github.com/Anupya/JapaneseTab/issues/10)
+- [**JapaneseTab**](https://github.com/Anupya/JapaneseTab) by Anupya. Chrome Store: https://chrome.google.com/webstore/detail/japanesetab/jndamehabjcbgopalgabjpplldmjnnfn
 
 ### Kanji 🎴
 JLPT level kanji lists: A comprehensive list of words required for the JLPT N5/N4/N3/N2/N1 exams.
