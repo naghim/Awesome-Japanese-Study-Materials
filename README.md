@@ -63,6 +63,7 @@ JLPT level kanji lists: A comprehensive list of words required for the JLPT N5/N
 #### Flashcards
 Digital and printable flashcards for memorization.
 - [Printable flashcards](https://github.com/makemeunsee/ichimiginikarasu) by Makemeunsee. The design was inspired by White Rabbit flashcards. Each card has a ton on useful information: stroke order, similar kanjis, onyomi and kunyomi readings, radicals etc. It is automatically generated so you can generate your own sets but **pre-generated ones are also available for download [here](https://github.com/makemeunsee/ichimiginikarasu/tree/results/examples/en)**. You can find card decks organized by levels and JLPT levels.
+- [Easy Japanese Anki sample deck](https://duct-tape2.github.io/examples/japanese-anki-sample-deck/) - free N5/N4 sample cards for learners who want vocabulary, grammar notes, and register explanations from anime, J-pop, drama, and news contexts. Extended lesson pack is optional/paid.
 
 #### Practice sheets 
 Writing and usage exercises to reinforce vocabulary, hiragana, katakana and kanji.
