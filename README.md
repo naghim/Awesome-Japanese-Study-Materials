@@ -88,7 +88,8 @@ Writing and usage exercises to reinforce vocabulary, hiragana, katakana and kanj
 - [JapanesePod101](https://www.japanesepod101.com/)
 - [NHK Easy News](https://www3.nhk.or.jp/news/easy/) - practice Japanese on real news
 - [After Hours](https://afterhours-e20.pages.dev/) - two Japanese friends in their 20s chat about everyday life in completely unscripted, natural Japanese. Great immersion listening for N3-N1 learners. Available on [Spotify](https://open.spotify.com/show/2bcRVrQ0VejQnYovKxyDLd) and [Apple Podcasts](https://podcasts.apple.com/podcast/id1798145313).
-
+- [Japanese Daily News](https://podcast.jpnotes.dev/) - free daily podcast retelling real news at a slow, learner-friendly pace, with vocab and grammar; also on Apple Podcasts & Spotify
+  
 ## Free tests 📖
 #### JLPT N5 
 - JLPT Sensei's free practice test with audio: [https://jlptsensei.com/downloads/jlpt-n5-practice-test/](https://jlptsensei.com/downloads/jlpt-n5-practice-test/)
