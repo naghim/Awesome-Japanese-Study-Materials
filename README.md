@@ -25,6 +25,8 @@ Highly recommended (just pick any):
 - **Shinobi** [[Website](https://shinobi-japanese.com)] - a graded reading and listening app with JLPT-leveled short stories (pre-N5 to advanced), each with furigana, native audio, and tap-to-translate. Great for building reading and listening together once you know your kana. Free to start, with an optional subscription.
 - **AI Language Partner** [[Website](https://duct-tape2.github.io/ai-language-partner/) // [GitHub](https://github.com/duct-tape2/ai-language-partner)] - an open-source, local-first Japanese speaking practice app for Korean learners. It uses reviewed dialogue banks and local STT/TTS instead of runtime LLM calls, and includes a hosted mock-mode demo for trying the app shape.
 
+- **Origa** [[Website](https://origa.uwuwu.net) // [GitHub](https://github.com/yurvon-screamo/origa)] - an open source Japanese learning app with built-in dictionaries, kanji, grammar, and phrases. FSRS spaced repetition for reviews. Russian and English interface. Fully offline. Available on Windows, Linux, macOS, and Android.
+
 #### Other apps:
 - Anki Flashcards - haven't tried yet, but I heard only positive opinions so far.
 - [WaniKani](https://www.wanikani.com/) to learn kanji.
