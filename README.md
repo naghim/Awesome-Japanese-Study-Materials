@@ -35,6 +35,7 @@ Highly recommended (just pick any):
 ### Grammar 📝
 
 - [Japanese Grammar Notes](https://jpnotes.dev/) - Free bilingual (English/Chinese) grammar notes covering JLPT N5→N2. Each grammar point has meaning, conjugation rules, example sentences with TTS audio and furigana, and comparisons of easily-confused grammar. Downloadable Anki decks included. No signup, no ads. 
+- [Nihongo to Japan](https://www.nihongotojapan.com/en) - Free English/Chinese site with 660 JLPT N5–N1 grammar guides (clear explanations with examples), plus 10,000+ JLPT practice questions with instant grading, a level-check test, and a Japanese dictionary. No signup, no ads.
 
 ### Vocabulary 📚
 
