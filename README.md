@@ -27,6 +27,7 @@ Highly recommended (just pick any):
 - **YuzuLingo** [[Website](https://yuzulingo.com)] - A privacy-first browser extension for Japanese video immersion. Places solid cover or blur zones over unselectable video hardsubs (Japanese TV Telop, anime, raw streams) for active recall, with on-device OCR for hover dictionary lookups and 1-click Anki sentence mining.
 
 - **Origa** [[Website](https://origa.uwuwu.net) // [GitHub](https://github.com/yurvon-screamo/origa)] - an open source Japanese learning app with built-in dictionaries, kanji, grammar, and phrases. FSRS spaced repetition for reviews. Russian and English interface. Fully offline. Available on Windows, Linux, macOS, and Android.
+- **Bibooks** [[Website](https://bibooks.org/languages/japanese)] - free bilingual read-along audiobooks with sentence-by-sentence parallel text and word-highlighted audio. Free to read, with paid tiers for extra features.
 
 #### Other apps:
 - Anki Flashcards - haven't tried yet, but I heard only positive opinions so far.
