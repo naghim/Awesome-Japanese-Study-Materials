@@ -92,6 +92,7 @@ Writing and usage exercises to reinforce vocabulary, hiragana, katakana and kanj
 - [**Kana-sensei**](https://github.com/laffachan/kana-sensei) by Laffachan. Website: [https://laffachan.github.io/kana-sensei](https://laffachan.github.io/kana-sensei)
 - [**Type Kana**](https://github.com/furudean/type-kana) by Furudean. Website: [https://type-kana.furudean.com/](https://type-kana.furudean.com/)
 - [**Keiko**](https://keiko-jp.com) - Free browser typing tutor for English speakers: read and type hiragana, katakana, kanji, and JLPT N5–N3 sentences, with romaji hints you can switch off.
+- [**Hiragana Chart**](https://hiragana-chart.com) - Free, no-login hiragana chart for beginners: all 46 hiragana in gojūon order with Hepburn romaji, tap-to-hear audio and animated stroke order, plus dakuten, yōon, sokuon and long-vowel tables, a one-click katakana switch, printable charts, a look-alike character guide and a quiz (4 levels, both directions, wrong-answer review). Also has a kanji translator (English, romaji, kana or handwriting lookup).
 
 ## Listening 🎧
 - [JapanesePod101](https://www.japanesepod101.com/)
