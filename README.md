@@ -102,6 +102,8 @@ Writing and usage exercises to reinforce vocabulary, hiragana, katakana and kanj
 - [Japanese Daily News](https://podcast.jpnotes.dev/) - free daily podcast retelling real news at a slow, learner-friendly pace, with vocab and grammar; also on Apple Podcasts & Spotify
   
 ## Free tests 📖
+- **OKJLPT** [[Website](https://okjlpt.com/en)] - interactive JLPT practice platform and past paper simulator covering N5 to N1 (2010–2026). Features embedded per-question audio with synced Japanese transcripts for listening, automated Item Response Theory (IRT) scaled scoring, timed practice, and an error notebook for reviewing mistakes. N5 and N4 papers, study tools (particle quiz, score calculator, verb conjugation), and sample N3–N1 papers are free to practice online in your browser.
+
 #### JLPT N5 
 - JLPT Sensei's free practice test with audio: [https://jlptsensei.com/downloads/jlpt-n5-practice-test/](https://jlptsensei.com/downloads/jlpt-n5-practice-test/)
 
