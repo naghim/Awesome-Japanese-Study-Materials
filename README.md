@@ -96,6 +96,7 @@ Writing and usage exercises to reinforce vocabulary, hiragana, katakana and kanj
 - [**Type Kana**](https://github.com/furudean/type-kana) by Furudean. Website: [https://type-kana.furudean.com/](https://type-kana.furudean.com/)
 - [**Keiko**](https://keiko-jp.com) - Free browser typing tutor for English speakers: read and type hiragana, katakana, kanji, and JLPT N5–N3 sentences, with romaji hints you can switch off.
 - [**Hiragana Chart**](https://hiragana-chart.com) - Free, no-login hiragana chart for beginners: all 46 hiragana in gojūon order with Hepburn romaji, tap-to-hear audio and animated stroke order, plus dakuten, yōon, sokuon and long-vowel tables, a one-click katakana switch, printable charts, a look-alike character guide and a quiz (4 levels, both directions, wrong-answer review). Also has a kanji translator (English, romaji, kana or handwriting lookup).
+- [**learnpeat**](https://learnpeat.com/japanese/hiragana) - Hiragana and katakana lessons with a readings chart and a short practice set on the page itself, no sign-in needed. Each answer comes with a one-line explanation, and a daily set continues with Listen/Slow audio and short memory hooks. Also covers the five vowels, the tricky readings (shi, chi, tsu, fu) and basic particles.
 
 ## Listening 🎧
 - [JapanesePod101](https://www.japanesepod101.com/)
