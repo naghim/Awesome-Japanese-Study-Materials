@@ -29,6 +29,8 @@ Highly recommended (just pick any):
 - **Origa** [[Website](https://origa.uwuwu.net) // [GitHub](https://github.com/yurvon-screamo/origa)] - an open source Japanese learning app with built-in dictionaries, kanji, grammar, and phrases. FSRS spaced repetition for reviews. Russian and English interface. Fully offline. Available on Windows, Linux, macOS, and Android.
 - **Bibooks** [[Website](https://bibooks.org/languages/japanese)] - free bilingual read-along audiobooks with sentence-by-sentence parallel text and word-highlighted audio. Free to read, with paid tiers for extra features.
 
+- **Yomoru** [[Website](https://yomoru.com/)] - a free planning tool for readers moving from anime to the original manga or light novel. Maps continuation points and compares editions, including Japanese editions, with official purchase links. It does not host reading material or grade texts by JLPT level. Some purchase links are affiliate links.
+
 #### Other apps:
 - Anki Flashcards - haven't tried yet, but I heard only positive opinions so far.
 - [WaniKani](https://www.wanikani.com/) to learn kanji.
