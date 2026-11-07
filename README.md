@@ -49,6 +49,7 @@ Highly recommended (just pick any):
     - [**Complete list of vocabulary** for the JLPT N5](https://nihongoichiban.com/home/jlpt-n5-study-material/). They have one for each level, just replace n5 with the desired level.
 - [JLPT Sensei](https://jlptsensei.com):
     - [**Vocabulary lists**](https://jlptsensei.com/jlpt-n5-vocabulary-list/) for all levels which include about the following: nouns, verbs, adverbs, adjectives, pre-noun adjectivals, particles and katakana words. These all can be downloaded if you're their Patreon members. Again, the link redirects to the N5 level, just replace it with your desired level in the URL.
+- [goi](https://0-draft.github.io/goi/) - 68 Japanese idioms, proverbs and four-character compounds that native speakers know but rarely use, each with its meaning, origin, an example sentence and sources, in English and Japanese. You pick the meaning before it is shown, and for the commonly misread ones the page shows how people in Japan answered the same question in the Agency for Cultural Affairs survey.
 
 #### Apps to learn new words
 - **Rolko** [[Website](https://www.rolko.xyz/)] - Desktop Chrome extension for looking up selectable Japanese webpage text and saving chosen words for spaced-repetition review in its web app. Includes AI-assisted features. Basic lookup is free; saving and review require a paid plan. A supplementary reading tool, not a structured JLPT course.
