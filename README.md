@@ -29,6 +29,7 @@ Highly recommended (just pick any):
 
 - **Origa** [[Website](https://origa.uwuwu.net) // [GitHub](https://github.com/yurvon-screamo/origa)] - an open source Japanese learning app with built-in dictionaries, kanji, grammar, and phrases. FSRS spaced repetition for reviews. Russian and English interface. Fully offline. Available on Windows, Linux, macOS, and Android.
 - **Bibooks** [[Website](https://bibooks.org/languages/japanese)] - free bilingual read-along audiobooks with sentence-by-sentence parallel text and word-highlighted audio. Free to read, with paid tiers for extra features.
+- **Japan Cat** [[Website](https://japancat.co) // [Google Play Store](https://play.google.com/store/apps/details?id=co.japancat.app) // [App Store](https://apps.apple.com/app/id6761765393)] - an AI conversation partner for speaking Japanese out loud. It corrects each sentence, explains the grammar (in English, Cantonese or Mandarin), remembers your mistakes, and has a hands-free driving mode and JLPT N5–N1 levels. Includes 1,081 free picture memory cards. Free to start (20 AI conversation messages a month), with an optional Premium subscription. Available on iOS, Android and the web.
 
 #### Other apps:
 - Anki Flashcards - haven't tried yet, but I heard only positive opinions so far.
