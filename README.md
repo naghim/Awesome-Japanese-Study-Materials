@@ -104,6 +104,7 @@ Writing and usage exercises to reinforce vocabulary, hiragana, katakana and kanj
 - [NHK Easy News](https://www3.nhk.or.jp/news/easy/) - practice Japanese on real news
 - [After Hours](https://afterhours-e20.pages.dev/) - two Japanese friends in their 20s chat about everyday life in completely unscripted, natural Japanese. Great immersion listening for N3-N1 learners. Available on [Spotify](https://open.spotify.com/show/2bcRVrQ0VejQnYovKxyDLd) and [Apple Podcasts](https://podcasts.apple.com/podcast/id1798145313).
 - [Japanese Daily News](https://podcast.jpnotes.dev/) - free daily podcast retelling real news at a slow, learner-friendly pace, with vocab and grammar; also on Apple Podcasts & Spotify
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/) - paste a Japanese YouTube video link to read or download its Japanese captions with timestamps, and translate them; useful for shadowing and mining vocabulary from videos you already watch
   
 ## Free tests 📖
 - **OKJLPT** [[Website](https://okjlpt.com/en)] - interactive JLPT practice platform and past paper simulator covering N5 to N1 (2010–2026). Features embedded per-question audio with synced Japanese transcripts for listening, automated Item Response Theory (IRT) scaled scoring, timed practice, and an error notebook for reviewing mistakes. N5 and N4 papers, study tools (particle quiz, score calculator, verb conjugation), and sample N3–N1 papers are free to practice online in your browser.
