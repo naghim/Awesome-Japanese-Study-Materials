@@ -113,3 +113,4 @@ Writing and usage exercises to reinforce vocabulary, hiragana, katakana and kanj
 
 ## Other Fun Stuff
 - [*Game*] [**Nihongo Shooter**](https://github.com/ubershmekel/nihongo-shooter) by ubershmekel. Fast paced Japanese learning by shooting the correct word definitions. Website: [https://ubershmekel.github.io/nihongo-shooter/](https://ubershmekel.github.io/nihongo-shooter/)
+- [*Game*] [**DangoChains**](https://dangochains.com/play/) by JuicyPasta. A daily puzzle: sort 16 Japanese words into 4 hidden groups, at three levels, with every word's reading and English meaning after the game. Also on [iOS](https://apps.apple.com/app/id6757343508) and [Android](https://play.google.com/store/apps/details?id=com.jacksondarrow.dangochains).
