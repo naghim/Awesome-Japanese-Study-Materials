@@ -29,6 +29,7 @@ Highly recommended (just pick any):
 
 - **Origa** [[Website](https://origa.uwuwu.net) // [GitHub](https://github.com/yurvon-screamo/origa)] - an open source Japanese learning app with built-in dictionaries, kanji, grammar, and phrases. FSRS spaced repetition for reviews. Russian and English interface. Fully offline. Available on Windows, Linux, macOS, and Android.
 - **Bibooks** [[Website](https://bibooks.org/languages/japanese)] - free bilingual read-along audiobooks with sentence-by-sentence parallel text and word-highlighted audio. Free to read, with paid tiers for extra features.
+- **hinoko** [[Website](https://www.hinoko-japanese.com) // [Google Play Store](https://play.google.com/store/apps/details?id=fyi.hinoko.app) // [App Store](https://apps.apple.com/us/app/hinoko-read-japanese-stories/id6822924950)] - graded short stories from JLPT N5 to N2, with furigana you can turn off, tap-to-translate words, audio and translations in seven languages. 50 stories are free without an account; Premium unlocks the whole library.
 
 #### Other apps:
 - Anki Flashcards - haven't tried yet, but I heard only positive opinions so far.
