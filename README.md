@@ -115,6 +115,7 @@ Writing and usage exercises to reinforce vocabulary, hiragana, katakana and kanj
 
 #### JLPT N5 
 - JLPT Sensei's free practice test with audio: [https://jlptsensei.com/downloads/jlpt-n5-practice-test/](https://jlptsensei.com/downloads/jlpt-n5-practice-test/)
+- [**ExamSim**](https://examsim.org/en/jlpt-n5-practice-test) - free full-length N5 mock exams with timed sections and scoring (free account required). The [quick-response listening drill](https://examsim.org/en/blog/jlpt-n5-listening-quick-response-practice) has three questions with audio, transcripts, and an answer key and is free to use without an account.
 
 ## Other Fun Stuff
 - [*Game*] [**Nihongo Shooter**](https://github.com/ubershmekel/nihongo-shooter) by ubershmekel. Fast paced Japanese learning by shooting the correct word definitions. Website: [https://ubershmekel.github.io/nihongo-shooter/](https://ubershmekel.github.io/nihongo-shooter/)
