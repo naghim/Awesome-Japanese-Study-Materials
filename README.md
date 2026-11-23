@@ -34,6 +34,8 @@ Highly recommended (just pick any):
 - **Japan Cat** [[Website](https://japancat.co) // [Google Play Store](https://play.google.com/store/apps/details?id=co.japancat.app) // [App Store](https://apps.apple.com/app/id6761765393)] - an AI conversation partner for speaking Japanese out loud. It corrects each sentence, explains the grammar (in English, Cantonese or Mandarin), remembers your mistakes, and has a hands-free driving mode and JLPT N5–N1 levels. Includes 1,081 free picture memory cards. Free to start (20 AI conversation messages a month), with an optional Premium subscription. Available on iOS, Android and the web.
 - **hinoko** [[Website](https://www.hinoko-japanese.com) // [Google Play Store](https://play.google.com/store/apps/details?id=fyi.hinoko.app) // [App Store](https://apps.apple.com/us/app/hinoko-read-japanese-stories/id6822924950)] - graded short stories from JLPT N5 to N2, with furigana you can turn off, tap-to-translate words, audio and translations in seven languages. 50 stories are free without an account; Premium unlocks the whole library.
 
+- **Yomoru** [[Website](https://yomoru.com/)] - a free planning tool for readers moving from anime to the original manga or light novel. Maps continuation points and compares editions, including Japanese editions, with official purchase links. It does not host reading material or grade texts by JLPT level. Some purchase links are affiliate links.
+
 #### Other apps:
 - Anki Flashcards - haven't tried yet, but I heard only positive opinions so far.
 - [WaniKani](https://www.wanikani.com/) to learn kanji.
